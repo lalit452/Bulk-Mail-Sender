@@ -10,7 +10,9 @@ This is a full-stack bulk email sender built using React.js (frontend) and Expre
 ✅ Upload CSV files containing recipient emails
 
 ✅ Set subject, email body, and BCC
+
 ✅ Secure authentication using Google App Passwords
+
 ✅ Frontend UI with navigation and help dialogs
  
  <h2>How to Use </h2>

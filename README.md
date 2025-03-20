@@ -3,10 +3,12 @@
 This is a full-stack bulk email sender built using React.js (frontend) and Express.js + Nodemailer (backend). It allows users to send bulk emails by uploading a CSV file with recipient emails.
 
 
-<h2>🚀 Features </h2>h2>
+<h2>🚀 Features </h2>
 
 ✅ Send bulk emails via Gmail (uses App Passwords)
+
 ✅ Upload CSV files containing recipient emails
+
 ✅ Set subject, email body, and BCC
 ✅ Secure authentication using Google App Passwords
 ✅ Frontend UI with navigation and help dialogs

@@ -22,3 +22,6 @@ This is a full-stack bulk email sender built using React.js (frontend) and Expre
 3️⃣ Upload a CSV file (with recipient emails)
 4️⃣ Set Subject & Email Body
 5️⃣ Click "Send Emails" ✅
+
+![image](https://github.com/user-attachments/assets/5466f9e0-5f58-4285-b7ad-062324952e9c)
+

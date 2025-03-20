@@ -1,4 +1,4 @@
- <h1> Bulk Mail Sender </h1>h1>
+ <h1> Bulk Mail Sender </h1>
 
 This is a full-stack bulk email sender built using React.js (frontend) and Express.js + Nodemailer (backend). It allows users to send bulk emails by uploading a CSV file with recipient emails.
 
